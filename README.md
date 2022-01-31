@@ -12,6 +12,14 @@
 ql repo https://github.com.cnpmjs.org/Hyominn/hyominn.git "jd_|jx_|gua_|jddj_|getJDCookie" "activity|backUp" "^jd[^_]|USER|function|utils|sendNotify|ZooFaker_Necklace.js|JDJRValidator_|sign_graphics_validate|ql|JDSignValidator"
 
 
+
+【使用教程】
+
+https://thin-hill-428.notion.site/1c598629675145988b43a37998a1604a
+
+
+
+
 ## Special statement:
 
 * Any unlocking and decryption analysis scripts involved in the Script project released by this warehouse are only used for testing, learning and research, and are forbidden to be used for commercial purposes. Their legality, accuracy, completeness and effectiveness cannot be guaranteed. Please make your own judgment based on the situation. .
